@@ -62,7 +62,7 @@
       <h1>Atul Upadhyay</h1>
       <p>I'm <span class="typed" data-typed-items="Developer, Designer, Freelancer"></span></p>
       <div class="social-links">
-        <a href="https://api.whatsapp.com/send/?phone=917905682821&text&app_absent=0" target="_blank"><i class="fa fa-whatsapp" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+        <a href="https://api.whatsapp.com/send/?phone=9170847632921&text&app_absent=0" target="_blank"><i class="fa fa-whatsapp" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
         <a href="https://www.facebook.com/atulupadhyay50003" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.instagram.com/atulupadhyay__/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://twitter.com/atulupadhyay110" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -98,7 +98,7 @@
                 <ul>
                   <!-- <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li> -->
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +91 7905682821</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +91 7084763292</li>
                   <li><i class="icofont-rounded-right"></i> <strong>City:</strong>  Varanasi, India</li>
                 </ul>
               </div>
@@ -649,7 +649,7 @@
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+91 7905682821</p>
+                <p>+91 7309763292</p>
               </div>
 
             </div>
@@ -700,7 +700,7 @@
       <h3>Atul Upadhyay</h3>
       <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> -->
       <div class="social-links">
-        <a href="https://api.whatsapp.com/send/?phone=917905682821&text&app_absent=0" target="_blank" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+        <a href="https://api.whatsapp.com/send/?phone=917084763292&text&app_absent=0" target="_blank" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
         <a href="https://www.facebook.com/atulupadhyay50003" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.instagram.com/atulupadhyay__/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://twitter.com/atulupadhyay110" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
